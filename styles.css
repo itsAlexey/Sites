@@ -135,3 +135,45 @@ p
 .btn--red:hover {
     background-color: #c73333;
 }
+
+/* Features
+=================*/
+
+.features {
+    flex-wrap: wrap;
+    display: flex;
+    margin: 85px 0;
+}
+
+.features__item {
+    margin-bottom: 35px;
+    margin-top: 35px;
+    padding: 0 40px;
+    width: 33.33%;
+    padding: 0 30px;
+    text-align: center;
+}
+
+.features__icons {
+    margin-bottom: 20px;
+}
+
+.features__title {
+    margin-bottom: 25px;
+    color: #3b3e41;
+    font-size: 14px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.features__text {
+    color: #6c7279;
+    font-size: 14px;
+    line-height: 1,5;
+}
+
+
+
+
+
+
